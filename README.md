@@ -69,3 +69,21 @@ This project is open-source and free to use under the MIT License.
 
 If this content is properly placed in your `README.md` file and committed to GitHub, it should render with the correct formatting.
 
+.
+├── public
+│   ├── data
+│        ├── countries.json
+│   ├── index.html
+│   ├── search-icon.png
+├── src
+│   ├── App.js
+│   ├── index.js
+│   ├── styles.css
+│   ├── components
+│       ├── FastFinder.js
+│       ├── FastFinder.css
+│       ├── ResultsPage.js
+│       ├── ResultsPage.css
+├── README.md
+└── package.json
+└── package-lock.json
