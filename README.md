@@ -55,12 +55,11 @@ my-portfolio/
 
 Clone this repository:
 
-```bash
 git clone https://github.com/your-username/my-portfolio.git
 
 Open index.html in your browser to view the site locally, or visit the live demo link.
 
-📜 License
+## 📜 License
 This project is open-source and free to use under the MIT License.
 
 ### Key Tips:
