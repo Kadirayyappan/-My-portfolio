@@ -18,21 +18,23 @@ Use empty lines between headings, paragraphs, and list items.
 Use triple backticks ``` for code blocks or directory structures.
 Here’s the corrected Markdown version for your README.md:
 
-markdown
-Copy code
-# Portfolio Website
-
-Welcome to my portfolio website repository! This project showcases my work, skills, and projects as part of my professional profile. The website is designed to present my experience and expertise in a visually appealing and user-friendly way.
-
-## 🖥️ Live Demo
-You can visit the live version of the website [here](https://your-username.github.io/your-repo-name/).
-
-## 📂 Project Structure
-
-The repository consists of the following structure:
-
-my-portfolio/ ├── index.html # Main entry point of the website ├── /templates # HTML files for additional pages (if any) ├── /static # Static assets (CSS, JS, images) │ ├── /css │ │ ├── style.css # Main CSS file │ │ ├── newscss.css # Additional CSS file │ │ └── swiper-bundle.css # Swiper carousel styles │ ├── /js │ │ ├── index.js # Main JavaScript file │ │ ├── swiper-bundle.js # Swiper carousel JS │ │ └── plt.js # Additional JavaScript file │ └── /images # Images used on the website │ ├── image # Example image │ └── profile1 # Profile image ├── resume1.pdf # Downloadable resume └── README.md # This file
-
+my-portfolio/
+├── index.html                # Main entry point of the website
+├── /templates                # HTML files for additional pages (if any)
+├── /static                   # Static assets (CSS, JS, images)
+│   ├── /css
+│   │   ├── style.css         # Main CSS file
+│   │   ├── newscss.css       # Additional CSS file
+│   │   └── swiper-bundle.css # Swiper carousel styles
+│   ├── /js
+│   │   ├── index.js          # Main JavaScript file
+│   │   ├── swiper-bundle.js  # Swiper carousel JS
+│   │   └── plt.js            # Additional JavaScript file
+│   └── /images               # Images used on the website
+│       ├── image             # Example image
+│       └── profile1          # Profile image
+├── resume1.pdf               # Downloadable resume
+└── README.md                 # This file
 
 ## 🚀 Features
 
