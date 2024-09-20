@@ -9,15 +9,7 @@ You can visit the live version of the website [here](https://your-username.githu
 
 The repository consists of the following structure:
 
-
-If you're seeing your content display in a paragraph form instead of the intended format, it could be due to incorrect Markdown syntax or file formatting issues. To make sure everything displays correctly, here's how to ensure proper formatting in your README.md file:
-
-Steps to Fix:
-Ensure Correct Line Breaks:
-Use empty lines between headings, paragraphs, and list items.
-Use triple backticks ``` for code blocks or directory structures.
-Here’s the corrected Markdown version for your README.md:
-
+```bash
 my-portfolio/
 ├── index.html                # Main entry point of the website
 ├── /templates                # HTML files for additional pages (if any)
@@ -35,6 +27,7 @@ my-portfolio/
 │       └── profile1          # Profile image
 ├── resume1.pdf               # Downloadable resume
 └── README.md                 # This file
+
 
 ## 🚀 Features
 
@@ -69,21 +62,4 @@ This project is open-source and free to use under the MIT License.
 
 If this content is properly placed in your `README.md` file and committed to GitHub, it should render with the correct formatting.
 
-.
-├── public
-│   ├── data
-│        ├── countries.json
-│   ├── index.html
-│   ├── search-icon.png
-├── src
-│   ├── App.js
-│   ├── index.js
-│   ├── styles.css
-│   ├── components
-│       ├── FastFinder.js
-│       ├── FastFinder.css
-│       ├── ResultsPage.js
-│       ├── ResultsPage.css
-├── README.md
-└── package.json
-└── package-lock.json
+
