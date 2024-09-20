@@ -29,6 +29,7 @@ my-portfolio/
 └── README.md                 # This file
 
 
+```
 ## 🚀 Features
 
 - **Responsive Design**: The website is fully responsive and works across different screen sizes and devices.
