@@ -3,7 +3,7 @@
 Welcome to my portfolio website repository! This project showcases my work, skills, and projects as part of my professional profile. The website is designed to present my experience and expertise in a visually appealing and user-friendly way.
 
 ## 🖥️ Live Demo
-You can visit the live version of the website [here](https://your-username.github.io/your-repo-name/).
+You can visit the live version of the website [here](https://fancy-croissant-cf3c8a.netlify.app).
 
 ## 📂 Project Structure
 
@@ -49,7 +49,7 @@ my-portfolio/
 
 Clone this repository:
 
-git clone https://github.com/your-username/my-portfolio.git
+https://fancy-croissant-cf3c8a.netlify.app
 
 Open index.html in your browser to view the site locally, or visit the live demo link.
 
