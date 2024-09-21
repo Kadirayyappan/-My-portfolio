@@ -49,7 +49,7 @@ my-portfolio/
 
 Clone this repository:
 
-https://fancy-croissant-cf3c8a.netlify.app
+https://kadirresume.netlify.app
 
 Open index.html in your browser to view the site locally, or visit the live demo link.
 
